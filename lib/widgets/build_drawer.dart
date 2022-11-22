@@ -1,6 +1,6 @@
-import 'package:appfood/page/home/home_page.dart';
-import 'package:appfood/page/login/login_page.dart';
-import 'package:appfood/page/profile/profile_page.dart';
+import 'package:appfood/pages/home/home_page.dart';
+import 'package:appfood/pages/login/login_page.dart';
+import 'package:appfood/pages/profile/profile_page.dart';
 import 'package:appfood/route/routing_page.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
